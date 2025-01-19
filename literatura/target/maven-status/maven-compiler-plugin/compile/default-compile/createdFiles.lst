@@ -1,0 +1,13 @@
+com\alura\literatura\service\AutorService.class
+com\alura\literatura\model\Autor.class
+com\alura\literatura\repository\LibroRepository.class
+com\alura\literatura\model\Libro.class
+com\alura\literatura\repository\AutorRepository.class
+com\alura\literatura\model\LibroResponse.class
+com\alura\literatura\client\GutendexClient.class
+com\alura\literatura\config\AppConfig.class
+com\alura\literatura\service\LibroService.class
+com\alura\literatura\model\LibrosResponse.class
+com\alura\literatura\controller\LibroController.class
+com\alura\literatura\LiteraturaApplication.class
+com\alura\literatura\model\AutorResponse.class
